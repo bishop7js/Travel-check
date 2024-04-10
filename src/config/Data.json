@@ -1,0 +1,137 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "username": "alicej",
+        "password": "password123",
+        "age": 28,
+        "country": "United States",
+        "city": "New York",
+        "number_of_places": 3,
+        "url": "https://www.youtube.com/",
+        "location": [40.712776, -74.005974]
+      },
+      {
+        "id": 2,
+        "name": "Bob Smith",
+        "username": "bobsmith",
+        "password": "letmein",
+        "age": 35,
+        "country": "Canada",
+        "city": "Toronto",
+        "number_of_places": 5,
+        "url": "https://example.com/bobsmith",
+        "location": [43.65107, -79.347015]
+      },
+      {
+        "id": 3,
+        "name": "Eva Martinez",
+        "username": "evam",
+        "password": "eva1234",
+        "age": 42,
+        "country": "Spain",
+        "city": "Madrid",
+        "number_of_places": 2,
+        "url": "https://example.com/evam",
+        "location": [40.416775, -3.70379]
+      },
+      {
+        "id": 4,
+        "name": "Maxwell Brown",
+        "username": "maxbrown",
+        "password": "brownie",
+        "age": 31,
+        "country": "Australia",
+        "city": "Sydney",
+        "number_of_places": 4,
+        "url": "https://example.com/maxbrown",
+        "location": [-33.86882, 151.209296]
+      },
+      {
+        "id": 5,
+        "name": "Sophie Lee",
+        "username": "sophiele",
+        "password": "sophie321",
+        "age": 25,
+        "country": "United Kingdom",
+        "city": "London",
+        "number_of_places": 6,
+        "url": "https://example.com/sophiele",
+        "location": [51.509865, -0.118092]
+      },
+      {
+        "id": 6,
+        "name": "Admin",
+        "username": "admin123",
+        "password": "admin123",
+        "age": 25,
+        "country": "Sri Lanka",
+        "city": "Colombo",
+        "number_of_places": 6,
+        "url": "https://example.com/sophiele",
+        "location": [37.4844, 40.4784]
+      },
+      {
+        "id": 7,
+        "name": "John Doe",
+        "username": "johndoe",
+        "password": "johndoe123",
+        "age": 40,
+        "country": "United States",
+        "city": "Los Angeles",
+        "number_of_places": 7,
+        "url": "https://example.com/johndoe",
+        "location": [34.052235, -118.243683]
+      },
+      {
+        "id": 8,
+        "name": "Anna Garcia",
+        "username": "annag",
+        "password": "annag123",
+        "age": 29,
+        "country": "Spain",
+        "city": "Barcelona",
+        "number_of_places": 4,
+        "url": "https://example.com/annag",
+        "location": [41.385063, 2.173404]
+      },
+      {
+        "id": 9,
+        "name": "Michael Chen",
+        "username": "michaelc",
+        "password": "michael123",
+        "age": 38,
+        "country": "Canada",
+        "city": "Vancouver",
+        "number_of_places": 3,
+        "url": "https://example.com/michaelc",
+        "location": [49.282729, -123.120738]
+      },
+      {
+        "id": 10,
+        "name": "Emily Rodriguez",
+        "username": "emilyr",
+        "password": "emily123",
+        "age": 27,
+        "country": "Australia",
+        "city": "Melbourne",
+        "number_of_places": 5,
+        "url": "https://example.com/emilyr",
+        "location": [-37.813628, 144.963058]
+      },
+      {
+        "id": 11,
+        "name": "David Wilson",
+        "username": "davidw",
+        "password": "david123",
+        "age": 33,
+        "country": "United Kingdom",
+        "city": "Manchester",
+        "number_of_places": 4,
+        "url": "https://example.com/davidw",
+        "location": [53.483959, -2.244644]
+      }
+    ]
+  }
+  
